@@ -1,0 +1,14 @@
+{
+  "138": {
+    "name": "Homagama - Pettah",
+    "stops": ["Homagama", "Kottawa", "Pannipitiya", "Thalawathugoda", "Nugegoda", "Kirulapone", "Havelock Town", "Thummulla", "Town Hall", "Pettah"]
+  },
+  "177": {
+    "name": "Kaduwela - Kollupitiya",
+    "stops": ["Kaduwela", "Malabe", "Thalahena", "Battaramulla", "Rajagiriya", "Borella", "Town Hall", "Kollupitiya"]
+  },
+  "122": {
+    "name": "Avissawella - Pettah",
+    "stops": ["Avissawella", "Puwakpitiya", "Hanwella", "Kaduwela", "Malabe", "Rajagiriya", "Borella", "Maradana", "Pettah"]
+  }
+}

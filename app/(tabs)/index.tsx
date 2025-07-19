@@ -1,75 +1,162 @@
-import { Image } from 'expo-image';
-import { Platform, StyleSheet } from 'react-native';
+import React, { useState } from 'react';
+import { StyleSheet, Text, View, TextInput, FlatList, SafeAreaView, TouchableOpacity, Keyboard } from 'react-native';
 
-import { HelloWave } from '@/components/HelloWave';
-import ParallaxScrollView from '@/components/ParallaxScrollView';
-import { ThemedText } from '@/components/ThemedText';
-import { ThemedView } from '@/components/ThemedView';
+import routesData from '../../data/bus-routes.json';
 
-export default function HomeScreen() {
+interface RouteInfo {
+  name: string;
+  stops: string[];
+}
+
+export default function App() {
+  const [input, setInput] = useState('');
+
+  const [routeInfo, setRouteInfo] = useState<RouteInfo | null>(null);
+
+  const handleSearch = () => {
+    Keyboard.dismiss();
+
+    const route = (routesData as { [key: string]: RouteInfo })[input];
+    if (route) {
+      setRouteInfo(route);
+    } else {
+      setRouteInfo(null);
+    }
+  };
+
   return (
-    <ParallaxScrollView
-      headerBackgroundColor={{ light: '#A1CEDC', dark: '#1D3D47' }}
-      headerImage={
-        <Image
-          source={require('@/assets/images/partial-react-logo.png')}
-          style={styles.reactLogo}
+    <SafeAreaView style={styles.container}>
+      <View style={styles.header}>
+        <Text style={styles.title}>Bus Paara (බස් පාර)</Text>
+        <Text style={styles.subtitle}>Enter a route number to find its path</Text>
+      </View>
+
+      <View style={styles.searchContainer}>
+        <TextInput
+          style={styles.input}
+          placeholder="e.g., 138"
+          keyboardType="numeric"
+          value={input}
+          onChangeText={setInput}
         />
-      }>
-      <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome!</ThemedText>
-        <HelloWave />
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 1: Try it</ThemedText>
-        <ThemedText>
-          Edit <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> to see changes.
-          Press{' '}
-          <ThemedText type="defaultSemiBold">
-            {Platform.select({
-              ios: 'cmd + d',
-              android: 'cmd + m',
-              web: 'F12',
-            })}
-          </ThemedText>{' '}
-          to open developer tools.
-        </ThemedText>
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 2: Explore</ThemedText>
-        <ThemedText>
-          {`Tap the Explore tab to learn more about what's included in this starter app.`}
-        </ThemedText>
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 3: Get a fresh start</ThemedText>
-        <ThemedText>
-          {`When you're ready, run `}
-          <ThemedText type="defaultSemiBold">npm run reset-project</ThemedText> to get a fresh{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> directory. This will move the current{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> to{' '}
-          <ThemedText type="defaultSemiBold">app-example</ThemedText>.
-        </ThemedText>
-      </ThemedView>
-    </ParallaxScrollView>
+        <TouchableOpacity style={styles.button} onPress={handleSearch}>
+          <Text style={styles.buttonText}>Search</Text>
+        </TouchableOpacity>
+      </View>
+
+      {routeInfo ? (
+        <View style={styles.resultContainer}>
+          <Text style={styles.routeName}>{input}: {routeInfo.name}</Text>
+          <FlatList
+            data={routeInfo.stops}
+            keyExtractor={(item, index) => index.toString()}
+            renderItem={({ item, index }) => (
+              <View style={styles.stopItem}>
+                 <Text style={styles.stopNumber}>{index + 1}.</Text>
+                 <Text style={styles.stopText}>{item}</Text>
+              </View>
+            )}
+          />
+        </View>
+      ) : (
+        <View style={styles.noResultContainer}>
+          <Text style={styles.noResultText}>Please enter a route number and search.</Text>
+        </View>
+      )}
+    </SafeAreaView>
   );
 }
 
 const styles = StyleSheet.create({
-  titleContainer: {
-    flexDirection: 'row',
+  container: {
+    flex: 1,
+    backgroundColor: '#f5f5f5',
+  },
+  header: {
+    paddingTop: 50, 
+    paddingBottom: 20,
+    paddingHorizontal: 20,
+    backgroundColor: '#007bff',
     alignItems: 'center',
-    gap: 8,
   },
-  stepContainer: {
-    gap: 8,
-    marginBottom: 8,
+  title: {
+    fontSize: 28,
+    fontWeight: 'bold',
+    color: '#fff',
   },
-  reactLogo: {
-    height: 178,
-    width: 290,
-    bottom: 0,
-    left: 0,
-    position: 'absolute',
+  subtitle: {
+    fontSize: 16,
+    color: '#e0e0e0',
+    marginTop: 4,
+  },
+  searchContainer: {
+    flexDirection: 'row',
+    padding: 16,
+    backgroundColor: '#fff',
+    borderBottomWidth: 1,
+    borderBottomColor: '#ddd',
+  },
+  input: {
+    flex: 1,
+    height: 50,
+    borderColor: '#ccc',
+    borderWidth: 1,
+    borderRadius: 8,
+    paddingHorizontal: 16,
+    fontSize: 18,
+  },
+  button: {
+    marginLeft: 10,
+    height: 50,
+    backgroundColor: '#007bff',
+    justifyContent: 'center',
+    alignItems: 'center',
+    paddingHorizontal: 20,
+    borderRadius: 8,
+  },
+  buttonText: {
+    color: '#fff',
+    fontSize: 18,
+    fontWeight: 'bold',
+  },
+  resultContainer: {
+    flex: 1,
+    padding: 16,
+  },
+  routeName: {
+    fontSize: 22,
+    fontWeight: 'bold',
+    marginBottom: 16,
+    color: '#333',
+  },
+  stopItem: {
+    flexDirection: 'row', 
+    alignItems: 'center',
+    backgroundColor: '#fff',
+    padding: 16,
+    borderRadius: 8,
+    marginBottom: 10,
+    borderWidth: 1,
+    borderColor: '#eee',
+  },
+  stopNumber: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    color: '#007bff',
+    marginRight: 10,
+  },
+  stopText: {
+    fontSize: 18,
+    color: '#555',
+    flex: 1, 
+  },
+  noResultContainer: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  noResultText: {
+    fontSize: 18,
+    color: '#888',
   },
 });
