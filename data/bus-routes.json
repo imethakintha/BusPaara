@@ -1,4 +1,112 @@
 {
+  "1": {
+    "name": "Colombo - Kandy",
+    "stops": [
+      "Colombo", "Maligawatta", "Kelanitissa", "4th Mile Post / Biyagama Road", "Thorana Junction", "Kelaniya University", "Kiribathgoda", "Mahara Junction", "Kadawatha", "Gonahena Junction", "Indigahamula Junction", "Kirillawala", "Trammo Junction", "Mudungoda (Pabavi)", "Miriswatta", "Yakkala", "Aluthgama", "Kalagedihena", "Thihariya", "Nittambuwa Sanghabodhi Maha Vidyalaya", "Nittambuwa", "Kalalpitiya", "Pasyala", "Kajugama", "Radawadunna", "Weweldeniya", "Danowita", "Dummaladeniya", "Warakapola", "Ambepussa", "Mahena", "Tholangamuwa", "Gasnawa Watta Junction", "Nelumdeniya", "Bata Pothella Kanda Uda", "Siyambalapitiya", "Ballapana Junction", "Galigamuwa", "Ambanpitiya", "Ranwala Junction", "Kegalle", "Mepitiya", "Karandupona", "Mangalagama", "Uthuwankanda", "Anwarama", "Mawanella", "Beligammana", "Hingula", "Ganetenna", "Pahala Kadugannawa", "Kadugannawa", "Henawala (Hospital Road)", "Pilimathalawa", "Ambilmeegama", "Kiribathkumbura", "Peradeniya", "Mulgampola", "Kandy"
+    ]
+  },
+  "1-1": {
+    "name": "Colombo - Kegalle",
+    "stops": [
+      "Colombo", "Maligawatta", "Kelanitissa", "4th Mile Post / Biyagama Road", "Thorana Junction", "Kelaniya University", "Kiribathgoda", "Mahara Junction", "Kadawatha", "Gonahena Junction", "Indigahamula Junction", "Kirillawala", "Trammo Junction", "Mudungoda (Pabavi)", "Yakkala", "Aluthgama", "Kalagedihena", "Thihariya", "Nittambuwa Sanghabodhi Maha Vidyalaya", "Nittambuwa", "Pasyala", "Kajugama", "Radawadunna", "Weweldeniya", "Danowita", "Dummaladeniya", "Warakapola", "Ambepussa", "Mahena", "Tholangamuwa", "Gasnawa Watta Junction", "Nelumdeniya", "Bata Pothella Kanda Uda", "Siyambalapitiya", "Ballapana Junction", "Galigamuwa", "Ambanpitiya", "Ranwala Junction", "Kegalle"
+    ]
+  },
+  "1-1_245": {
+    "name": "Negombo - Kegalle",
+    "stops": [
+      "Negombo", "Thelwatta", "Kurana (Church Junction)", "20th Mile Post (Air Force Camp)", "18th Mile Post (Airport Junction)", "Avariwatta Bus Stand", "Naikanda Muduna", "Andiambalama Junction", "Peellawatta", "Yatiyana Junction", "Minuwangoda Bus Stand", "Wegowwa Junction", "Pamunuwa Junction", "Dewalapola Junction", "Walpitamulla", "Naiwala Junction", "Wataddara Temple", "Veyangoda Bus Stand", "Udamvita", "Nittambuwa", "Kalalpitiya", "Pasyala", "Radawadunna", "Weweldeniya", "Danowita", "Dummaladeniya", "Warakapola", "Ambepussa", "Mahena", "Tholangamuwa", "Gasnawa Watta Junction", "Nelumdeniya", "Bata Pothella Kanda Uda", "Siyambalapitiya", "Ballapana Junction", "Galigamuwa", "Ambanpitiya", "Ranwala Junction", "Kegalle"
+    ]
+  },
+  "1-1_677": {
+    "name": "Colombo - Thannimale",
+    "stops": [
+      "Colombo", "Maligawatta", "Kelanitissa", "4th Mile Post / Biyagama Road", "Thorana Junction", "Kelaniya University", "Kiribathgoda", "Mahara Junction", "Kadawatha", "Gonahena Junction", "Indigahamula Junction", "Kirillawala", "Trammo Junction", "Mudungoda (Pabavi)", "Yakkala", "Aluthgama", "Kalagedihena", "Thihariya", "Nittambuwa Sanghabodhi Maha Vidyalaya", "Nittambuwa", "Kalalpitiya", "Pasyala", "Kajugama", "Radawadunna", "Weweldeniya", "Danowita", "Dummaladeniya", "Warakapola", "Ambepussa", "Mahena", "Tholangamuwa", "Gasnawa Watta Junction", "Nelumdeniya", "Bata Pothella Kanda Uda", "Siyambalapitiya", "Ballapana Junction", "Galigamuwa", "Ambanpitiya", "Ranwala Junction", "Kegalle", "Ashokaramaya", "Paragammana Junction", "Mathura Maha Vidyalaya", "Hettimulla Junction", "5th Mile Post (Near Bridge)", "Moronthota", "Mabopitiya Junction", "Udugoda Nikapitiya Junction", "Thannimale"
+    ]
+  },
+  "1-2": {
+    "name": "Colombo - Mawanella",
+    "stops": [
+      "Colombo", "Maligawatta", "Kelanitissa", "4th Mile Post / Biyagama Road", "Thorana Junction", "Kelaniya University", "Kiribathgoda", "Mahara Junction", "Kadawatha", "Gonahena Junction", "Indigahamula Junction", "Kirillawala", "Trammo Junction", "Mudungoda (Pabavi)", "Yakkala", "Aluthgama", "Kalagedihena", "Thihariya", "Nittambuwa Sanghabodhi Maha Vidyalaya", "Nittambuwa", "Kalalpitiya", "Pasyala", "Kajugama", "Radawadunna", "Weweldeniya", "Danowita", "Dummaladeniya", "Warakapola", "Ambepussa", "Mahena", "Tholangamuwa", "Gasnawa Watta Junction", "Nelumdeniya", "Bata Pothella Kanda Uda", "Siyambalapitiya", "Ballapana Junction", "Galigamuwa", "Ambanpitiya", "Ranwala Junction", "Kegalle", "Mepitiya", "Karandupona", "Mangalagama", "Uthuwankanda", "Anwarama", "Mawanella"
+    ]
+  },
+  "1-2_178": {
+    "name": "Mawanella - Narahenpita",
+    "stops": [
+      "Mawanella", "Anwarama", "Uthuwankanda", "Mangalagama", "Karandupona", "Mepitiya", "Kegalle", "Ranwala Junction", "Ambanpitiya", "Galigamuwa", "Ballapana Junction", "Siyambalapitiya", "Bata Pothella Kanda Uda", "Nelumdeniya", "Gasnawa Watta Junction", "Tholangamuwa", "Mahena", "Ambepussa", "Warakapola", "Dummaladeniya", "Danowita", "Weweldeniya", "Radawadunna", "Kajugama", "Pasyala", "Nittambuwa", "Nittambuwa Sanghabodhi Maha Vidyalaya", "Thihariya", "Kalagedihena", "Aluthgama", "Yakkala", "Miriswatta", "Mudungoda (Pabavi)", "Trammo Junction", "Kirillawala", "Indigahamula Junction", "Gonahena Junction", "Kadawatha", "Mahara Junction", "Kiribathgoda", "Kelaniya University", "Thorana Junction", "4th Mile Post / Biyagama Road", "Kelanitissa", "Dematagoda", "Borella", "Narahenpita"
+    ]
+  },
+  "1-2_402": {
+    "name": "Colombo - Hemmathagama",
+    "stops": [
+      "Colombo", "Maligawatta", "Kelanitissa", "4th Mile Post / Biyagama Road", "Thorana Junction", "Kelaniya University", "Kiribathgoda", "Mahara Junction", "Kadawatha", "Gonahena Junction", "Indigahamula Junction", "Kirillawala", "Trammo Junction", "Mudungoda (Pabavi)", "Miriswatta", "Yakkala", "Aluthgama", "Kalagedihena", "Thihariya", "Nittambuwa Sanghabodhi Maha Vidyalaya", "Nittambuwa", "Kalalpitiya", "Pasyala", "Kajugama", "Radawadunna", "Weweldeniya", "Danowita", "Dummaladeniya", "Warakapola", "Ambepussa", "Mahena", "Tholangamuwa", "Gasnawa Watta Junction", "Nelumdeniya", "Bata Pothella Kanda Uda", "Siyambalapitiya", "Ballapana Junction", "Galigamuwa", "Ambanpitiya", "Ranwala Junction", "Kegalle", "Mepitiya", "Karandupona", "Mangalagama", "Uthuwankanda", "Anwarama", "Mawanella", "Kappagoda Junction", "Daswatta Junction", "Ussapitiya", "Alupotha", "Gevilipitiya", "Dippitiya", "Habalanthota Junction", "Thalgaspitiya", "Pethigammana 1st Mile Post", "Hemmathagama"
+    ]
+  },
+  "1-3": {
+    "name": "Colombo - Warakapola",
+    "stops": [
+      "Colombo", "Maligawatta", "Kelanitissa", "4th Mile Post / Biyagama Road", "Thorana Junction", "Kelaniya University", "Kiribathgoda", "Mahara Junction", "Kadawatha", "Gonahena Junction", "Indigahamula Junction", "Kirillawala", "Trammo Junction", "Mudungoda (Pabavi)", "Yakkala", "Aluthgama", "Kalagedihena", "Thihariya", "Nittambuwa Sanghabodhi Maha Vidyalaya", "Nittambuwa", "Kalalpitiya", "Pasyala", "Kajugama", "Radawadunna", "Weweldeniya", "Danowita", "Dummaladeniya", "Warakapola"
+    ]
+  },
+  "1-4": {
+    "name": "Colombo - Galapitamada",
+    "stops": [
+      "Colombo", "Maligawatta", "Kelanitissa", "4th Mile Post / Biyagama Road", "Thorana Junction", "Kelaniya University", "Kiribathgoda", "Mahara Junction", "Kadawatha", "Gonahena Junction", "Indigahamula Junction", "Kirillawala", "Trammo Junction", "Mudungoda (Pabavi)", "Yakkala", "Aluthgama", "Kalagedihena", "Thihariya", "Nittambuwa Sanghabodhi Maha Vidyalaya", "Nittambuwa", "Pasyala", "Kajugama", "Radawadunna", "Weweldeniya", "Danowita", "Dummaladeniya", "Warakapola", "Ganithapura", "Thalliyadda", "Kongoda Junction", "Niyadurupola (Rural Bank)", "Hallawa (Sri Vidarshanaramaya)", "Galapitamada"
+    ]
+  },
+  "1-4_671": {
+    "name": "Colombo - Imbulowita",
+    "stops": [
+      "Colombo", "Maligawatta", "Kelanitissa", "4th Mile Post / Biyagama Road", "Thorana Junction", "Kelaniya University", "Kiribathgoda", "Mahara Junction", "Kadawatha", "Gonahena Junction", "Indigahamula Junction", "Kirillawala", "Trammo Junction", "Mudungoda (Pabavi)", "Yakkala", "Aluthgama", "Kalagedihena", "Thihariya", "Nittambuwa Sanghabodhi Maha Vidyalaya", "Nittambuwa", "Pasyala", "Kajugama", "Radawadunna", "Weweldeniya", "Danowita", "Dummaladeniya", "Warakapola", "Ganithapura", "Thalliyadda", "Dorawaka Siriniwasa Vidyalaya", "Galamuna Wele Kade", "Kohomba Deniya School", "Manikkadawara", "Imbulowita"
+    ]
+  },
+  "1-5": {
+    "name": "Nawam Mawatha - Kandy",
+    "stops": [
+      "Nawam Mawatha", "Glass House", "Race Course", "Borella", "Dematagoda", "Kelanitissa", "4th Mile Post / Biyagama Road", "Thorana Junction", "Kelaniya University", "Kiribathgoda", "Mahara Junction", "Kadawatha", "Gonahena Junction", "Indigahamula Junction", "Kirillawala", "Trammo Junction", "Mudungoda (Pabavi)", "Miriswatta", "Yakkala", "Aluthgama", "Kalagedihena", "Thihariya", "Nittambuwa Sanghabodhi Maha Vidyalaya", "Nittambuwa", "Kalalpitiya", "Pasyala", "Kajugama", "Radawadunna", "Weweldeniya", "Danowita", "Dummaladeniya", "Warakapola", "Ambepussa", "Mahena", "Tholangamuwa", "Gasnawa Watta Junction", "Nelumdeniya", "Bata Pothella Kanda Uda", "Siyambalapitiya", "Ballapana Junction", "Galigamuwa", "Ambanpitiya", "Ranwala Junction", "Kegalle", "Mepitiya", "Karandupona", "Mangalagama", "Uthuwankanda", "Anwarama", "Mawanella", "Beligammana", "Hingula", "Ganetenna", "Pahala Kadugannawa", "Kadugannawa", "Henawala (Hospital Road)", "Pilimathalawa", "Ambilmeegama", "Kiribathkumbura", "Peradeniya", "Mulgampola", "Kandy"
+    ]
+  },
+  "1_154_103": {
+    "name": "Kandy - Narahenpita",
+    "stops": [
+      "Kandy", "Mulgampola", "Peradeniya", "Kiribathkumbura", "Ambilmeegama", "Pilimathalawa", "Henawala (Hospital Road)", "Kadugannawa", "Pahala Kadugannawa", "Ganetenna", "Hingula", "Beligammana", "Mawanella", "Anwarama", "Uthuwankanda", "Mepitiya", "Karandupona", "Kegalle", "Ranwala Junction", "Ambanpitiya", "Galigamuwa", "Ballapana Junction", "Siyambalapitiya", "Bata Pothella Kanda Uda", "Nelumdeniya", "Gasnawa Watta Junction", "Tholangamuwa", "Mahena", "Ambepussa", "Warakapola", "Dummaladeniya", "Danowita", "Weweldeniya", "Radawadunna", "Kajugama", "Pasyala", "Nittambuwa", "Nittambuwa Sanghabodhi Maha Vidyalaya", "Thihariya", "Kalagedihena", "Aluthgama", "Yakkala", "Miriswatta", "Mudungoda (Pabavi)", "Trammo Junction", "Kirillawala", "Indigahamula Junction", "Gonahena Junction", "Kadawatha", "Mahara Junction", "Kiribathgoda", "Kelaniya University", "Thorana Junction", "4th Mile Post / Biyagama Road", "Kelanitissa", "Dematagoda", "Borella", "Narahenpita"
+    ]
+  },
+  "1_245": {
+    "name": "Negombo - Kandy",
+    "stops": [
+      "Negombo", "Thelwatta", "Kurana (Church Junction)", "20th Mile Post (Air Force Camp)", "18th Mile Post (Air Force Camp)", "Avariwatta Bus Stand", "Naikanda Muduna", "Andiambalama Junction", "Peellawatta", "Yatiyana Junction", "Minuwangoda Bus Stand", "Wegowwa Junction", "Pamunuwa Junction", "Dewalapola Junction", "Walpitamulla", "Naiwala Junction", "Wataddara Temple", "Veyangoda Bus Stand", "Udamvita", "Nittambuwa", "Kalalpitiya", "Pasyala", "Kajugama", "Radawadunna", "Weweldeniya", "Danowita", "Dummaladeniya", "Warakapola", "Ambepussa", "Mahena", "Tholangamuwa", "Gasnawa Watta Junction", "Nelumdeniya", "Bata Pothella Kanda Uda", "Siyambalapitiya", "Ballapana Junction", "Galigamuwa", "Ambanpitiya", "Ranwala Junction", "Kegalle", "Mepitiya", "Karandupona", "Uthuwankanda", "Anwarama", "Mawanella", "Beligammana", "Ganetenna", "Pahala Kadugannawa", "Kadugannawa", "Henawala (Hospital Road)", "Pilimathalawa", "Ambilmeegama", "Kiribathkumbura", "Peradeniya", "Mulgampola", "Kandy"
+    ]
+  },
+  "1_625": {
+    "name": "Colombo - Menikhinna",
+    "stops": [
+      "Colombo", "Maligawatta", "Kelanitissa", "4th Mile Post / Biyagama Road", "Thorana Junction", "Kelaniya University", "Kiribathgoda", "Mahara Junction", "Kadawatha", "Gonahena Junction", "Indigahamula Junction", "Kirillawala", "Trammo Junction", "Mudungoda (Pabavi)", "Yakkala", "Aluthgama", "Kalagedihena", "Thihariya", "Nittambuwa Sanghabodhi Maha Vidyalaya", "Nittambuwa", "Kalalpitiya", "Pasyala", "Kajugama", "Radawadunna", "Weweldeniya", "Danowita", "Dummaladeniya", "Warakapola", "Ambepussa", "Mahena", "Tholangamuwa", "Gasnawa Watta Junction", "Nelumdeniya", "Bata Pothella Kanda Uda", "Siyambalapitiya", "Ballapana Junction", "Galigamuwa", "Ambanpitiya", "Ranwala Junction", "Kegalle", "Mepitiya", "Karandupona", "Mangalagama", "Uthuwankanda", "Anwarama", "Mawanella", "Beligammana", "Hingula", "Ganetenna", "Pahala Kadugannawa", "Kadugannawa", "Henawala (Hospital Road)", "Pilimathalawa", "Ambilmeegama", "Kiribathkumbura", "Peradeniya", "Mulgampola", "Kandy", "Swiss Hotel", "Buwelikada", "Thennekumbura", "Kundasale", "Gam Udawa", "Pallekele Army Camp", "Balagolla", "Kengalla", "Henawala (Kalasirigama Junction)", "Menikhinna"
+    ]
+  },
+  "2": {
+    "name": "Colombo - Matara",
+    "stops": [
+      "Colombo", "Galle Face", "Kollupitiya", "Bambalapitiya", "Wellawatte", "Dehiwala", "Galkissa", "Ratmalana", "Katubedda Junction", "Moratuwa", "Koralawella (Railway Station)", "Egodauyana (Railway Station)", "Aluth Palama", "Panadura", "Nalluruwa Junction", "Thalpitiya (Wadduwa Holiday Resort)", "Wadduwa / Moronthuduwa Road", "Molligoda / Korosduwa Road", "Pothupitiya / Walukaramaya", "Wadiyamankada / Bandaragama Road", "Nagas Junction", "Katukurunda Junction", "Malegoda / Dodangoda Road", "Payagala / Nagaha Thuduwa", "Maggona / Munhena Road", "Polkotuwa / Magalkanda Road", "Beruwala", "Hettimulla Junction", "Moragalla Sub Post Office", "Aluthgama", "Bentota (Kahabiliyakanda)", "Warahena / Railway Cross", "Induruwa Railway Station", "Maha Induruwa Railway Station", "Duwamodara / Polwatta Road", "Kosgoda", "Ahungalla / Uragaha Road", "Pathegama / Godagedara Junction", "Balapitiya Bus Stand", "Balapitiya Hospital", "Randumbe Sangharaja Viharaya", "Ambalangoda", "Madampe (Usmuduwa)", "Akurale", "Kahawa", "Thelwatta", "Seenigama", "Hikkaduwa", "Narigama", "Kumarakanda Junction", "Dodanduwa", "Rathgama", "Boossa Army Camp", "Ginthota", "Ginthota Depot", "Maha Modara Hospital", "Galle Bus Stand", "Moda Ela", "Dewata Junction", "Unawatuna Teachers' College", "Dalawella", "Thalpe", "Habaraduwa", "Koggala", "Kathaluwa", "Weligama Bus Stand", "Palana Pradeshiya Sabha", "Polathumodara", "Thal Aramba School", "Kamburugamuwa Junction", "Walgama", "Nupe", "Matara"
+    ]
+  },
+  "2-1": {
+    "name": "Colombo - Galle",
+    "stops": [
+      "Colombo", "Galle Face", "Kollupitiya", "Bambalapitiya", "Wellawatte", "Dehiwala", "Galkissa", "Ratmalana", "Katubedda Junction", "Moratuwa", "Koralawella (Railway Station)", "Egodauyana (Railway Station)", "Aluth Palama", "Panadura", "Nalluruwa Junction", "Thalpitiya (Wadduwa Holiday Resort)", "Wadduwa / Moronthuduwa Road", "Molligoda / Korosduwa Road", "Pothupitiya / Walukaramaya", "Wadiyamankada / Bandaragama Road", "Nagas Junction", "Katukurunda Junction", "Malegoda / Dodangoda Road", "Payagala / Nagaha Thuduwa", "Maggona / Munhena Road", "Polkotuwa / Magalkanda Road", "Beruwala", "Hettimulla Junction", "Moragalla Sub Post Office", "Aluthgama", "Bentota (Kahabiliyakanda)", "Warahena / Railway Cross", "Induruwa Railway Station", "Maha Induruwa Railway Station", "Duwamodara / Polwatta Road", "Kosgoda", "Ahungalla / Uragaha Road", "Pathegama / Godagedara Junction", "Balapitiya Bus Stand", "Balapitiya Hospital", "Randumbe Sangharaja Viharaya", "Ambalangoda", "Madampe (Usmuduwa)", "Akurale", "Kahawa", "Thelwatta", "Seenigama", "Hikkaduwa", "Narigama", "Kumarakanda Junction", "Dodanduwa", "Rathgama", "Boossa Army Camp", "Ginthota", "Ginthota Depot", "Maha Modara Hospital", "Galle"
+    ]
+  },
+  "2_004-3": {
+    "name": "Matara - Anuradhapura",
+    "stops": [
+      "Matara", "Walgama", "Kamburugamuwa Junction", "Thal Aramba School", "Polathumodara", "Palana Pradeshiya Sabha", "Weligama Bus Stand", "Kambalgama", "Midigama", "Goviyapana", "Ahangama", "Welhengoda", "Kathaluwa", "Koggala", "Habaraduwa", "Thalpe", "Dalawella", "Unawatuna Teachers' College", "Dewata Junction", "Moda Ela", "Galle Bus Stand", "Maha Modara Hospital", "Ginthota Depot", "Ginthota", "Boossa Army Camp", "Rathgama", "Dodanduwa", "Kumarakanda Junction", "Narigama", "Hikkaduwa", "Seenigama", "Thelwatta", "Kahawa", "Akurale", "Madampe (Usmuduwa)", "Ambalangoda", "Randumbe Sangharaja Viharaya", "Balapitiya Hospital", "Balapitiya Bus Stand", "Pathegama / Godagedara Junction", "Ahungalla / Uragaha Road", "Kosgoda", "Duwamodara / Polwatta Road", "Maha Induruwa Railway Station", "Induruwa Railway Station", "Warahena / Railway Cross", "Bentota (Kahabiliyakanda)", "Aluthgama", "Moragalla Sub Post Office", "Hettimulla Junction", "Beruwala", "Polkotuwa / Magalkanda Road", "Maggona / Munhena Road", "Payagala / Nagaha Thuduwa", "Malegoda / Dodangoda Road", "Katukurunda Junction", "Kalutara", "Nagas Junction", "Wadiyamankada / Bandaragama Road", "Pothupitiya / Walukaramaya", "Molligoda / Korosduwa Road", "Wadduwa / Moronthuduwa Road", "Thalpitiya (Wadduwa Holiday Resort)", "Nalluruwa Junction", "Panadura", "Aluth Palama", "Egodauyana (Railway Station)", "Koralawella (Railway Station)", "Moratuwa", "Katubedda Junction", "Ratmalana", "Galkissa", "Dehiwala", "Wellawatte", "Bambalapitiya", "Kollupitiya", "Galle Face", "Pettah", "Jethawanaramaya", "Thotalanga", "Peliyagoda (Oliyamulla Bridge)", "Wattala Post Office", "Mabola", "Mahabage", "Kandana Police", "Kapuwatta", "Ja-Ela Bus Stand", "Tudella", "Dadugama", "Seeduwa", "Liyanagemulla", "18th Mile Post (Airport Junction)", "20th Mile Post (Air Force Camp)", "Kurana (Church Junction)", "Thelwatta", "Periyamulla", "Dalupotha", "Daluwakotuwa", "Kochchikade", "Thoppuwa Junction", "Waikkala", "Nainamadama", "Dummaladeniya (Wennappuwa Depot)", "Wennappuwa", "Kolonnawa", "Katuneriya", "Marawila Hospital", "Marawila", "Thalwila", "Mahawewa", "Madampe", "Galahitiyawa Junction", "Pambala", "Kakkapalliya", "Iranawila", "Chilaw Bus Stand", "Deduru Oya Bridge", "Bangadeniya Junction", "Rajakadaluwa", "Arachchikattuwa", "Nalladarankattuwa", "Anawilundawa", "Pomparippu Bridge", "Baththulu Oya", "Tharawilluwa", "Kiriyankalliya", "Mundalama Hospital", "Mundalama", "Kattakaduwa Watta", "Nawadankulama", "Mangalaeliya", "Ambalaweli Bridge", "10th Mile Post", "Mundel", "Sembatta Church", "Karikattiya", "Nagawilluwa", "Palaviya Junction", "Thilladiya (2nd Mile Post)", "Leprosy Hospital", "Puttalam Bus Stand", "Senakudirippu", "3rd Mile Post", "4th Mile Post (Sirambiady)", "6th Mile Post", "7th Mile Post (Thambapanni Junction)", "8th Mile Post", "9th Mile Post (Karativu Junction)", "10th Mile Post", "12th Mile Post", "14th Mile Post (Pahariya Junction)", "15th Mile Post", "17th Mile Post (Pahala Puliyankulam Junction)", "18th Mile Post", "19th Mile Post (Palugaswewa)", "21st Mile Post", "Kala Oya (Vihara Junction)", "Puttalam Junction (Thambuththegama Junction)", "Thammannawa Junction", "Pahala Maragahawewa", "Wilpattu Junction", "Nekaththagama", "Lindawewa School", "30th Junction (Dunudanduwewa)", "Nochchiyagama", "Mudhithagama", "Sinharagama Junction", "Ottappuwa Junction", "Galayaya Junction (Thalawa Junction)", "Thammannawa Junction", "Mahabulankulama", "Ulukkulama", "Korakahawewa", "Pandulugama Army Camp", "Kurunegala Junction / 2nd Mile Post", "Anuradhapura New Bus Stand", "Anuradhapura Old Bus Stand"
+    ]
+  },
+  "4": {
+    "name": "Colombo - Mannar",
+    "stops": [
+      "Colombo", "Jethawanaramaya", "Thotalanga", "Peliyagoda (Oliyamulla Bridge)", "Wattala Post Office", "Mabola", "Mahabage", "Kandana Police", "Kapuwatta", "Ja-Ela Bus Stand", "Tudella", "Dadugama", "Seeduwa", "Liyanagemulla", "18th Mile Post (Airport Junction)", "20th Mile Post (Air Force Camp)", "Kurana (Church Junction)", "Thelwatta", "Periyamulla", "Dalupotha", "Daluwakotuwa", "Kochchikade", "Thoppuwa Junction", "Waikkala", "Nainamadama", "Dummaladeniya (Wennappuwa Depot)", "Wennappuwa", "Kolonnawa", "Katuneriya", "Marawila Hospital", "Marawila", "Thalwila", "Mahawewa", "Madampe", "Galahitiyawa Junction", "Pambala", "Kakkapalliya", "Iranawila", "Chilaw Bus Stand", "Deduru Oya Bridge", "Bangadeniya Junction", "Rajakadaluwa", "Arachchikattuwa", "Nalladarankattuwa", "Anawilundawa", "Pomparippu Bridge", "Baththulu Oya", "Tharawilluwa", "Kiriyankalliya", "Mundalama Hospital", "Mundalama", "Kattakaduwa Watta", "Nawadankulama", "Mangalaeliya", "Ambalaweli Bridge", "10th Mile Post", "Mundel", "Sembatta Church", "Karikattiya", "Nagawilluwa", "Palaviya Junction", "Thilladiya (2nd Mile Post)", "Leprosy Hospital", "Puttalam Bus Stand", "Senakudirippu", "3rd Mile Post", "4th Mile Post (Sirambiady)", "6th Mile Post", "7th Mile Post (Thambapanni Junction)", "8th Mile Post", "9th Mile Post (Karativu Junction)", "10th Mile Post", "12th Mile Post", "14th Mile Post (Pahariya Junction)", "15th Mile Post", "17th Mile Post (Pahala Puliyankulam Junction)", "18th Mile Post", "19th Mile Post (Palugaswewa)", "21st Mile Post", "Kala Oya (Vihara Junction)", "Puttalam Junction (Thambuththegama Junction)", "Thammannawa Junction", "Pahala Maragahawewa", "Wilpattu Junction", "Nekaththagama", "Lindawewa School", "30th Junction (Dunudanduwewa)", "Nochchiyagama", "Mudhithagama", "Sinharagama Junction", "Ottappuwa Junction", "Galayaya Junction (Thalawa Junction)", "38th Mile Post Junction", "Mahabulankulama", "Ulukkulama", "Korakahawewa", "Pandulugama Army Camp", "Kurunegala Junction / 2nd Mile Post", "Anuradhapura New Bus Stand", "Anuradhapura Old Bus Stand", "Jaffna Junction", "2nd Mile Post (Paniyan Kaduwala Junction)", "Saliyapura Army Camp", "Mankadawala", "Parasangaswewa", "Galkulama Junction", "Ramba Wewa", "Rambewa", "Welioya Junction", "Ikirigollewa", "Vahamalgollewa", "Sangilikanadarawa", "Medawachchiya Name Board", "Medawachchiya Bus Stand", "51 1/4 Mile Post", "Medawachchiya Railway Station", "Kadawathgama", "7th km Post", "Rambakulama", "Yakawewa", "Pekupu Idam", "Mankulam", "Neriyakulama", "Thanthirimale Junction", "Mudalikulam", "Muhaththankulam", "Cheddikulam", "27th km Post", "Kallar Bridge", "32nd km Post", "Adiyapuliyankulam", "Uthadi", "Periyakadu", "41st km Post", "Parayanarankulam", "Kunchikulam Junction", "Madhu Road", "49th km Post", "Kaddai Adampan", "Panna Vaduvan", "Isamalai Thalu", "Galkandankulam", "Murunkan", "Semmanthivu", "Agathikali Junction", "Uyilankulam", "Nochchikulam", "Serunaval Kulam", "Thiruketheeswaram Junction", "Mullipallavi", "Vankalai Junction", "Talaimannar Junction", "83rd km Post", "Mannar"
+    ]
+  },
   "138": {
     "name": "Homagama - Pettah",
     "stops": ["Homagama", "Kottawa", "Pannipitiya", "Thalawathugoda", "Nugegoda", "Kirulapone", "Havelock Town", "Thummulla", "Town Hall", "Pettah"]
@@ -10,5 +118,97 @@
   "122": {
     "name": "Avissawella - Pettah",
     "stops": ["Avissawella", "Puwakpitiya", "Hanwella", "Kaduwela", "Malabe", "Rajagiriya", "Borella", "Maradana", "Pettah"]
+  },
+  "120": {
+    "name": "Horana - Pettah",
+    "stops": ["Horana", "Kesbewa", "Piliyandala", "Boralesgamuwa", "Nugegoda", "Highlevel Road", "Maradana", "Pettah"]
+  },
+  "100": {
+    "name": "Panadura - Pettah",
+    "stops": ["Panadura", "Moratuwa", "Rathmalana", "Mount Lavinia", "Dehiwala", "Wellawatte", "Bambalapitiya", "Kollupitiya", "Galle Face", "Pettah"]
+  },
+  "101": {
+    "name": "Moratuwa - Pettah",
+    "stops": ["Moratuwa", "Katubedda", "Rathmalana", "Mount Lavinia", "Dehiwala", "Wellawatte", "Bambalapitiya", "Kollupitiya", "Galle Face", "Pettah"]
+  },
+  "176": {
+    "name": "Karagampitiya - Hettiyawatta",
+    "stops": ["Karagampitiya", "Dehiwala", "Kalubowila", "Nugegoda", "Nawala", "Rajagiriya", "Borella", "Dematagoda", "Hettiyawatta"]
+  },
+  "190": {
+    "name": "Meegoda - Pettah",
+    "stops": ["Meegoda", "Godagama", "Athurugiriya", "Malabe", "Battaramulla", "Rajagiriya", "Borella", "Maradana", "Pettah"]
+  },
+  "154": {
+    "name": "Angulana - Kiribathgoda",
+    "stops": ["Angulana", "Moratuwa", "Dehiwala", "Wellawatte", "Bambalapitiya", "Town Hall", "Borella", "Dematagoda", "Peliyagoda", "Kiribathgoda"]
+  },
+  "119": {
+    "name": "Maharagama - Dehiwala",
+    "stops": ["Maharagama", "Nugegoda", "Kohuwala", "Kalubowila", "Dehiwala"]
+  },
+  "163": {
+    "name": "Moratuwa - Battaramulla",
+    "stops": ["Moratuwa", "Dehiwala", "Nugegoda", "Nawala", "Rajagiriya", "Battaramulla"]
+  },
+  "174": {
+    "name": "Kottawa - Borella",
+    "stops": ["Kottawa", "Pannipitiya", "Pelawatta", "Battaramulla", "Rajagiriya", "Borella"]
+  },
+  "99": {
+    "name": "Colombo - Badulla",
+    "stops": ["Pettah", "Nugegoda", "Avissawella", "Ratnapura", "Balangoda", "Beragala", "Haputale", "Bandarawela", "Hali-ela", "Badulla"]
+  },
+  "17": {
+    "name": "Panadura - Kandy",
+    "stops": ["Panadura", "Piliyandala", "Kottawa", "Kadawatha", "Nittambuwa", "Kegalle", "Peradeniya", "Kandy"]
+  },
+  "183": {
+    "name": "Nugegoda - Panadura",
+    "stops": ["Nugegoda", "Boralesgamuwa", "Piliyandala", "Kesbewa", "Bandaragama", "Panadura"]
+  },
+  "168": {
+    "name": "Nugegoda - Kotahena",
+    "stops": ["Nugegoda", "Nawala", "Rajagiriya", "Cotta Road", "Borella", "Maradana", "Panchikawatte", "Kotahena"]
+  },
+  "141": {
+    "name": "Wellawatte - Narahenpita",
+    "stops": ["Wellawatte", "Kirulapone", "Havelock City", "Narahenpita"]
+  },
+  "187": {
+    "name": "Colombo - Katunayake Airport (E03)",
+    "stops": ["Fort", "Colombo-Katunayake Expressway", "Katunayake Airport"]
+  },
+  "200": {
+    "name": "Gampaha - Colombo",
+    "stops": ["Gampaha", "Yakkala", "Kadawatha", "Kiribathgoda", "Peliyagoda", "Pettah"]
+  },
+  "400": {
+    "name": "Colombo - Chilaw",
+    "stops": ["Pettah", "Peliyagoda", "Wattala", "Ja-Ela", "Seeduwa", "Katunayake", "Negombo", "Kochchikade", "Chilaw"]
+  },
+  "87": {
+    "name": "Colombo - Jaffna",
+    "stops": ["Pettah", "Kurunegala", "Dambulla", "Vavuniya", "Kilinochchi", "Elephant Pass", "Jaffna"]
+  },
+  "49": {
+    "name": "Colombo - Trincomalee",
+    "stops": ["Pettah", "Kurunegala", "Dambulla", "Habarana", "Kanthale", "Trincomalee"]
+  },
+  "79": {
+    "name": "Colombo - Nuwara Eliya",
+    "stops": ["Pettah", "Avissawella", "Ginigathhena", "Hatton", "Nanu Oya", "Nuwara Eliya"]
+  },
+  "EX003": {
+    "name": "Colombo - Hambantota (E01)",
+    "stops": ["Makumbura", "Southern Expressway", "Galle Interchange", "Matara Interchange", "Hambantota"]
+  },
+  "112": {
+    "name": "Kotahena - Maharagama",
+    "stops": ["Kotahena", "Panchikawatte", "Maradana", "Borella", "Narahenpita", "Nawala", "Nugegoda", "Maharagama"]
+  },
+  "125": {
+    "name": "Ingiriya - Pettah",
+    "stops": ["Ingiriya", "Handapangoda", "Padukka", "Godagama", "Kottawa", "Maharagama", "Nugegoda", "Kirulapone", "Pettah"]
   }
 }
